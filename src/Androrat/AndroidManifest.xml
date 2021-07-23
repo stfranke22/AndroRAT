@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--suppress ALL -->
+<!--suppress ALL, SyntaxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
 er le service lorsque le SMS reçu contient un mot clé -->
 	<uses-permission android:name="android.permission.SEND_SMS" /><!-- Pour permettre l'envoi d'un SMS -->
 	

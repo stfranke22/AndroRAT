@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--suppress ALL -->
+<!--suppress ALL, SyntaxError -->
+taxError -->
+taxError -->
+taxError -->
+taxError -->
 ent"
 	    android:orientation="horizontal" >
         <TextView
