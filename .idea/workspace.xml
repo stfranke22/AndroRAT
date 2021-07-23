@@ -45,12 +45,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2889b8cd-9d2c-4c94-8fc6-9462a813a87a" name="Default Changelist" comment="androrat">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroRAT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AndroRAT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Unnamed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Unnamed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/AndroratActivity/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/AndroratActivity/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/AndroratActivity/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/AndroratActivity/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Androrat/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Androrat/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Androrat/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Androrat/res/layout/main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/stevefranke/.android/avd/Nexus_10_API_30.avd]" />
   <component name="Git.Settings">
@@ -58,6 +68,12 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="fq4eoj6u" />
   </component>
   <component name="NamedScopeManager">
     <scope name="Unnamed" pattern="" />
@@ -83,12 +99,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="VirtualDevicePath@/Users/stevefranke/.android/avd/Nexus_10_API_30.avd" />
     <property name="TODO_SCOPE" value="Unnamed" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -226,6 +244,12 @@
       <item itemvalue="Gauge Execution.Specifications" />
     </list>
   </component>
+  <component name="SSCMIVcsConfiguration">
+    <option name="AutoAdd" value="false" />
+    <option name="AutoRemove" value="false" />
+    <option name="ModifiedTracking" value="false" />
+    <option name="ConnectOnStartup" value="false" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -326,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627029398563</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="androrat">
+      <created>1627041286162</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627041286162</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,46 +389,56 @@
       <screen x="0" y="25" width="1440" height="831" />
     </state>
     <state x="346" y="164" key="#Console/0.25.1440.831@0.25.1440.831" timestamp="1627029486610" />
-    <state x="449" y="267" key="#Notifications" timestamp="1627029353274">
-      <screen x="0" y="25" width="1440" height="831" />
+    <state x="354" y="120" key="#Inspections" timestamp="1627042633533">
+      <screen x="0" y="25" width="1440" height="826" />
     </state>
+    <state x="354" y="120" key="#Inspections/0.25.1440.826@0.25.1440.826" timestamp="1627042633533" />
+    <state x="449" y="266" key="#Notifications" timestamp="1627041786426">
+      <screen x="0" y="25" width="1440" height="829" />
+    </state>
+    <state x="449" y="266" key="#Notifications/0.25.1440.829@0.25.1440.829" timestamp="1627041786425" />
     <state x="449" y="267" key="#Notifications/0.25.1440.831@0.25.1440.831" timestamp="1627029353274" />
     <state x="449" y="267" key="#Notifications/0.25.1440.832@0.25.1440.832" timestamp="1627029041288" />
     <state x="449" y="267" key="#Notifications/0.25.1440.833@0.25.1440.833" timestamp="1626944484252" />
-    <state x="320" y="84" key="#Plugins" timestamp="1627023550449">
+    <state x="369" y="48" key="#Plugins" timestamp="1627042220095">
+      <screen x="0" y="25" width="1440" height="828" />
+    </state>
+    <state x="369" y="48" key="#Plugins/0.25.1440.828@0.25.1440.828" timestamp="1627042220095" />
+    <state x="320" y="84" key="#Plugins/0.25.1440.831@0.25.1440.831" timestamp="1627023550448" />
+    <state x="139" y="25" width="1024" height="832" key="#Project_Structure" timestamp="1627041460475">
       <screen x="0" y="25" width="1440" height="831" />
     </state>
-    <state x="320" y="84" key="#Plugins/0.25.1440.831@0.25.1440.831" timestamp="1627023550448" />
-    <state x="139" y="25" width="1024" height="832" key="#Project_Structure" timestamp="1627025020944">
-      <screen x="0" y="25" width="1440" height="832" />
-    </state>
+    <state x="139" y="25" key="#Project_Structure/0.25.1440.831@0.25.1440.831" timestamp="1627041460475" />
     <state x="139" y="25" width="1024" height="832" key="#Project_Structure/0.25.1440.832@0.25.1440.832" timestamp="1627025020944" />
     <state x="508" y="222" key="#Web_Browsers" timestamp="1626944406820">
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="508" y="222" key="#Web_Browsers/0.25.1440.833@0.25.1440.833" timestamp="1626944406820" />
-    <state x="240" y="33" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627025350209">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state x="240" y="33" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627041560601">
+      <screen x="0" y="25" width="1440" height="831" />
     </state>
+    <state x="240" y="33" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.831@0.25.1440.831" timestamp="1627041560601" />
     <state x="240" y="33" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1627025350209" />
     <state x="487" y="276" key="#com.intellij.tools.ToolEditorDialog" timestamp="1626943428079">
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="487" y="276" key="#com.intellij.tools.ToolEditorDialog/0.25.1440.833@0.25.1440.833" timestamp="1626943428079" />
-    <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1627024548126">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state x="391" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1627042514240">
+      <screen x="0" y="25" width="1440" height="826" />
     </state>
+    <state x="391" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.826@0.25.1440.826" timestamp="1627042514240" />
     <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.832@0.25.1440.832" timestamp="1627024548126" />
     <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.833@0.25.1440.833" timestamp="1626942977984" />
-    <state x="11" y="62" width="1240" height="629" key="AVDManager" timestamp="1627025139184">
-      <screen x="0" y="25" width="1440" height="832" />
-    </state>
-    <state x="11" y="62" width="1240" height="629" key="AVDManager/0.25.1440.832@0.25.1440.832" timestamp="1627025139184" />
-    <state x="216" y="515" width="1240" height="629" key="AVDManager/0.25.1440.833@0.25.1440.833" timestamp="1626944354962" />
-    <state x="516" y="190" key="AndroidProcessChooserDialog" timestamp="1627029340946">
+    <state x="11" y="62" width="1240" height="629" key="AVDManager" timestamp="1627041675537">
       <screen x="0" y="25" width="1440" height="831" />
     </state>
-    <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.831@0.25.1440.831" timestamp="1627029340946" />
+    <state x="11" y="62" width="1240" height="629" key="AVDManager/0.25.1440.831@0.25.1440.831" timestamp="1627041675537" />
+    <state x="11" y="62" width="1240" height="629" key="AVDManager/0.25.1440.832@0.25.1440.832" timestamp="1627025139184" />
+    <state x="216" y="515" width="1240" height="629" key="AVDManager/0.25.1440.833@0.25.1440.833" timestamp="1626944354962" />
+    <state x="516" y="190" key="AndroidProcessChooserDialog" timestamp="1627041578642">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.831@0.25.1440.831" timestamp="1627041578642" />
     <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1627024471540" />
     <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.833@0.25.1440.833" timestamp="1626943936278" />
     <state x="421" y="316" key="DetectedRootsChooserDialog" timestamp="1627024970266">
@@ -446,11 +487,11 @@
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="308" y="186" key="IDE.errors.dialog/0.25.1440.832@0.25.1440.832" timestamp="1627025244898" />
-    <state x="229" y="25" width="1024" height="832" key="SettingsEditor" timestamp="1627029597699">
-      <screen x="0" y="25" width="1440" height="830" />
+    <state x="146" y="25" width="1024" height="832" key="SettingsEditor" timestamp="1627041672215">
+      <screen x="0" y="25" width="1440" height="831" />
     </state>
     <state x="229" y="25" key="SettingsEditor/0.25.1440.830@0.25.1440.830" timestamp="1627029597699" />
-    <state x="229" y="25" key="SettingsEditor/0.25.1440.831@0.25.1440.831" timestamp="1627029394776" />
+    <state x="146" y="25" key="SettingsEditor/0.25.1440.831@0.25.1440.831" timestamp="1627041672215" />
     <state x="229" y="25" width="1024" height="832" key="SettingsEditor/0.25.1440.832@0.25.1440.832" timestamp="1627025110661" />
     <state x="229" y="25" key="SettingsEditor/0.25.1440.833@0.25.1440.833" timestamp="1626943518517" />
     <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1627025404780">
@@ -465,9 +506,10 @@
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="610" y="181" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.25.1440.833@0.25.1440.833" timestamp="1626943428811" />
-    <state x="390" y="45" width="670" height="675" key="run.anything.popup" timestamp="1627025457423">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state x="390" y="45" width="670" height="675" key="run.anything.popup" timestamp="1627041591087">
+      <screen x="0" y="25" width="1440" height="831" />
     </state>
+    <state x="390" y="45" width="670" height="675" key="run.anything.popup/0.25.1440.831@0.25.1440.831" timestamp="1627041591087" />
     <state x="390" y="45" width="670" height="675" key="run.anything.popup/0.25.1440.832@0.25.1440.832" timestamp="1627025457423" />
     <state x="520" y="302" width="499" height="390" key="scopes" timestamp="1627025322206">
       <screen x="0" y="25" width="1440" height="832" />

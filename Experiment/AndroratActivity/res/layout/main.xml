@@ -38,15 +38,8 @@
             />
     </LinearLayout>
 	-->
-<!--suppress ALL, SyntaxError -->
-taxError -->
-taxError -->
-taxError -->
-arent"
-    android:layout_weight="1"
-    />
-
-     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<!--suppress ALL -->
+"http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal">

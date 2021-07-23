@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--suppress ALL, SyntaxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-er le service lorsque le SMS reçu contient un mot clé -->
-	<uses-permission android:name="android.permission.SEND_SMS" /><!-- Pour permettre l'envoi d'un SMS -->
-	
-    <uses-permission android:name="android.permission.READ_PHONE_STATE"/> <!-- Pour récupérer l'IMEI et toutes ses informations -->
-    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/> <!-- Pour récupérer les appels sortant -->
+<!--suppress ALL -->
+sion android:name="android.permission.PROCESS_OUTGOING_CALLS"/> <!-- Pour récupérer les appels sortant -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/><!-- Pour savoir s'il l'on est connecté ou pas -->
     
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/> <!-- Acceder aux coordonnées GPS -->

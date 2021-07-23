@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--suppress ALL, SyntaxError -->
-taxError -->
-taxError -->
-taxError -->
-taxError -->
-ent"
-	    android:orientation="horizontal" >
-        <TextView
-        android:layout_width="wrap_content"
+<!--suppress ALL -->
+t"
         android:layout_height="fill_parent"
         android:text="IP : " />
         <!--suppress AndroidDomInspection -->

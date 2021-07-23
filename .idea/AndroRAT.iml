@@ -5,19 +5,21 @@
       <configuration>
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../gen" />
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../gen" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../AndroRAT/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../AndroRAT/res" />
-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../AndroRAT/assets" />
-        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../AndroRAT/libs" />
-        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../AndroRAT/proguard_logs" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../Experiment/AndroratActivity/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../libs" />
+        <option name="PROJECT_TYPE" value="1" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../proguard_logs" />
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_3" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
     </content>
+    <content url="file://$MODULE_DIR$/../projekt" />
     <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

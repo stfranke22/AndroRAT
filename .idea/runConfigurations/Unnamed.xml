@@ -1,6 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" editBeforeRun="true" nameIsGenerated="true">
-    <module name="AndroRAT" />
+  <configuration default="false" name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" editBeforeRun="true" singleton="true" nameIsGenerated="true">
     <option name="DEPLOY" value="true" />
     <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
     <option name="DEPLOY_AS_INSTANT" value="false" />
