@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+  </component>
   <component name="AndroidLayouts">
     <shared>
       <config />
@@ -27,16 +30,23 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+    </expand>
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2889b8cd-9d2c-4c94-8fc6-9462a813a87a" name="Default Changelist" comment="" />
+    <list default="true" id="2889b8cd-9d2c-4c94-8fc6-9462a813a87a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/AndroratActivity/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/AndroratActivity/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/AndroratActivity/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/AndroratActivity/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Androrat/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Androrat/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Androrat/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Androrat/res/layout/main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,10 +80,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="VirtualDevicePath@/Users/stevefranke/.android/avd/Nexus_10_API_30.avd" />
     <property name="TODO_SCOPE" value="Unnamed" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -132,6 +148,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="AndroRAT" />
       <option name="TESTING_TYPE" value="0" />
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -171,7 +188,7 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="true" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
@@ -196,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626942191485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="u">
+      <created>1627023990841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627023990841</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +238,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="s&#10;&#10;s" />
-    <option name="LAST_COMMIT_MESSAGE" value="s&#10;&#10;s" />
+    <MESSAGE value="u" />
+    <option name="LAST_COMMIT_MESSAGE" value="u" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="267" key="#Notifications" timestamp="1627023646219">
@@ -234,33 +259,38 @@
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="508" y="222" key="#Web_Browsers/0.25.1440.833@0.25.1440.833" timestamp="1626944406820" />
-    <state x="240" y="33" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627023680536">
+    <state x="240" y="33" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627024321777">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="240" y="33" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1627023680536" />
+    <state x="240" y="33" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1627024321777" />
     <state x="487" y="276" key="#com.intellij.tools.ToolEditorDialog" timestamp="1626943428079">
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="487" y="276" key="#com.intellij.tools.ToolEditorDialog/0.25.1440.833@0.25.1440.833" timestamp="1626943428079" />
-    <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1626942977984">
-      <screen x="0" y="25" width="1440" height="833" />
+    <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1627024099672">
+      <screen x="0" y="25" width="1440" height="832" />
     </state>
+    <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.832@0.25.1440.832" timestamp="1627024099672" />
     <state x="391" y="177" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.833@0.25.1440.833" timestamp="1626942977984" />
     <state x="11" y="62" width="1240" height="629" key="AVDManager" timestamp="1627023335961">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="11" y="62" width="1240" height="629" key="AVDManager/0.25.1440.832@0.25.1440.832" timestamp="1627023335961" />
     <state x="216" y="515" width="1240" height="629" key="AVDManager/0.25.1440.833@0.25.1440.833" timestamp="1626944354962" />
-    <state x="516" y="190" key="AndroidProcessChooserDialog" timestamp="1626943936278">
-      <screen x="0" y="25" width="1440" height="833" />
+    <state x="516" y="190" key="AndroidProcessChooserDialog" timestamp="1627024259960">
+      <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1626942300924" />
+    <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1627024259960" />
     <state x="516" y="190" key="AndroidProcessChooserDialog/0.25.1440.833@0.25.1440.833" timestamp="1626943936278" />
     <state x="100" y="125" width="1240" height="629" key="DiffContextDialog" timestamp="1627023335961">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="100" y="125" width="1240" height="629" key="DiffContextDialog/0.25.1440.832@0.25.1440.832" timestamp="1627023335961" />
     <state x="100" y="125" width="1240" height="629" key="DiffContextDialog/0.25.1440.833@0.25.1440.833" timestamp="1626944086775" />
+    <state x="508" y="198" key="FileChooserDialogImpl" timestamp="1627024274391">
+      <screen x="0" y="25" width="1440" height="832" />
+    </state>
+    <state x="508" y="198" key="FileChooserDialogImpl/0.25.1440.832@0.25.1440.832" timestamp="1627024274391" />
     <state width="699" height="264" key="GridCell.Tab.0.bottom" timestamp="1627023442661">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
@@ -281,10 +311,10 @@
     </state>
     <state width="699" height="264" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1627023442661" />
     <state width="699" height="264" key="GridCell.Tab.0.right/0.25.1440.833@0.25.1440.833" timestamp="1626944635376" />
-    <state x="308" y="186" key="IDE.errors.dialog" timestamp="1627023418754">
+    <state x="308" y="186" key="IDE.errors.dialog" timestamp="1627023959087">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="308" y="186" key="IDE.errors.dialog/0.25.1440.832@0.25.1440.832" timestamp="1627023418754" />
+    <state x="308" y="186" key="IDE.errors.dialog/0.25.1440.832@0.25.1440.832" timestamp="1627023959087" />
     <state x="229" y="75" key="SettingsEditor" timestamp="1627023334199">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
@@ -298,10 +328,10 @@
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="610" y="181" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.25.1440.833@0.25.1440.833" timestamp="1626943428811" />
-    <state x="385" y="198" key="run.anything.popup" timestamp="1627023313877">
+    <state x="385" y="198" key="run.anything.popup" timestamp="1627024270851">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="385" y="198" key="run.anything.popup/0.25.1440.832@0.25.1440.832" timestamp="1627023313877" />
+    <state x="385" y="198" key="run.anything.popup/0.25.1440.832@0.25.1440.832" timestamp="1627024270851" />
     <state x="520" y="302" width="499" height="390" key="scopes" timestamp="1626943382175">
       <screen x="0" y="25" width="1440" height="833" />
     </state>
