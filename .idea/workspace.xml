@@ -44,9 +44,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2889b8cd-9d2c-4c94-8fc6-9462a813a87a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2889b8cd-9d2c-4c94-8fc6-9462a813a87a" name="Default Changelist" comment="androrat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +86,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open AndroRAT" />
+    </option>
   </component>
   <component name="RunAnythingContextRecentDirectoryCache">
     <option name="paths">
@@ -334,7 +337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627025232182</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="androrat">
+      <created>1627025399697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627025399697</updated>
+    </task>
+    <task id="LOCAL-00009" summary="androrat">
+      <created>1627025461191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627025461192</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +457,10 @@
     </state>
     <state x="229" y="25" width="1024" height="832" key="SettingsEditor/0.25.1440.832@0.25.1440.832" timestamp="1627025110661" />
     <state x="229" y="25" key="SettingsEditor/0.25.1440.833@0.25.1440.833" timestamp="1626943518517" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1627025404780">
+      <screen x="0" y="25" width="1440" height="832" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.25.1440.832@0.25.1440.832" timestamp="1627025404780" />
     <state x="430" y="252" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1626944522200">
       <screen x="0" y="25" width="1440" height="833" />
     </state>
@@ -448,10 +469,10 @@
       <screen x="0" y="25" width="1440" height="833" />
     </state>
     <state x="610" y="181" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.25.1440.833@0.25.1440.833" timestamp="1626943428811" />
-    <state x="388" y="198" key="run.anything.popup" timestamp="1627024525767">
+    <state x="390" y="45" width="670" height="675" key="run.anything.popup" timestamp="1627025457423">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="388" y="198" key="run.anything.popup/0.25.1440.832@0.25.1440.832" timestamp="1627024525767" />
+    <state x="390" y="45" width="670" height="675" key="run.anything.popup/0.25.1440.832@0.25.1440.832" timestamp="1627025457423" />
     <state x="520" y="302" width="499" height="390" key="scopes" timestamp="1627025322206">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
