@@ -88,7 +88,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -100,63 +100,7 @@
       <recentPaths value="$PROJECT_DIR$" />
     </option>
   </component>
-  <component name="RunManager" selected="Gauge Execution.Specifications">
-    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" editBeforeRun="true" nameIsGenerated="true">
-      <module name="AndroRAT" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="true" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="true" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Android App.Unnamed">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App" editBeforeRun="true">
       <module name="AndroRAT" />
       <option name="DEPLOY" value="true" />
@@ -375,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627029326735</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="androrat">
+      <created>1627029398563</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627029398563</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,6 +350,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="androrat" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="508" y="249" key="#BuildArtifactsBeforeRunChooser" timestamp="1627041234413">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="508" y="249" key="#BuildArtifactsBeforeRunChooser/0.25.1440.831@0.25.1440.831" timestamp="1627041234413" />
+    <state x="346" y="164" key="#Console" timestamp="1627029486610">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="346" y="164" key="#Console/0.25.1440.831@0.25.1440.831" timestamp="1627029486610" />
     <state x="449" y="267" key="#Notifications" timestamp="1627029353274">
       <screen x="0" y="25" width="1440" height="831" />
     </state>
@@ -455,27 +414,31 @@
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="508" y="198" key="FileChooserDialogImpl/0.25.1440.832@0.25.1440.832" timestamp="1627024274391" />
-    <state width="699" height="171" key="GridCell.Tab.0.bottom" timestamp="1627029220585">
-      <screen x="0" y="25" width="1440" height="831" />
+    <state width="699" height="171" key="GridCell.Tab.0.bottom" timestamp="1627029604940">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
+    <state width="699" height="171" key="GridCell.Tab.0.bottom/0.25.1440.830@0.25.1440.830" timestamp="1627029604940" />
     <state width="699" height="171" key="GridCell.Tab.0.bottom/0.25.1440.831@0.25.1440.831" timestamp="1627029220585" />
     <state width="699" height="171" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1627025261600" />
     <state width="699" height="264" key="GridCell.Tab.0.bottom/0.25.1440.833@0.25.1440.833" timestamp="1626944635376" />
-    <state width="699" height="171" key="GridCell.Tab.0.center" timestamp="1627029220584">
-      <screen x="0" y="25" width="1440" height="831" />
+    <state width="699" height="171" key="GridCell.Tab.0.center" timestamp="1627029604938">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
+    <state width="699" height="171" key="GridCell.Tab.0.center/0.25.1440.830@0.25.1440.830" timestamp="1627029604938" />
     <state width="699" height="171" key="GridCell.Tab.0.center/0.25.1440.831@0.25.1440.831" timestamp="1627029220584" />
     <state width="699" height="171" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1627025261600" />
     <state width="699" height="264" key="GridCell.Tab.0.center/0.25.1440.833@0.25.1440.833" timestamp="1626944635376" />
-    <state width="699" height="171" key="GridCell.Tab.0.left" timestamp="1627029220576">
-      <screen x="0" y="25" width="1440" height="831" />
+    <state width="699" height="171" key="GridCell.Tab.0.left" timestamp="1627029604938">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
+    <state width="699" height="171" key="GridCell.Tab.0.left/0.25.1440.830@0.25.1440.830" timestamp="1627029604938" />
     <state width="699" height="171" key="GridCell.Tab.0.left/0.25.1440.831@0.25.1440.831" timestamp="1627029220576" />
     <state width="699" height="171" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1627025261599" />
     <state width="699" height="264" key="GridCell.Tab.0.left/0.25.1440.833@0.25.1440.833" timestamp="1626944635375" />
-    <state width="699" height="171" key="GridCell.Tab.0.right" timestamp="1627029220584">
-      <screen x="0" y="25" width="1440" height="831" />
+    <state width="699" height="171" key="GridCell.Tab.0.right" timestamp="1627029604939">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
+    <state width="699" height="171" key="GridCell.Tab.0.right/0.25.1440.830@0.25.1440.830" timestamp="1627029604939" />
     <state width="699" height="171" key="GridCell.Tab.0.right/0.25.1440.831@0.25.1440.831" timestamp="1627029220584" />
     <state width="699" height="171" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1627025261600" />
     <state width="699" height="264" key="GridCell.Tab.0.right/0.25.1440.833@0.25.1440.833" timestamp="1626944635376" />
@@ -483,9 +446,10 @@
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="308" y="186" key="IDE.errors.dialog/0.25.1440.832@0.25.1440.832" timestamp="1627025244898" />
-    <state x="229" y="25" width="1024" height="832" key="SettingsEditor" timestamp="1627029394777">
-      <screen x="0" y="25" width="1440" height="831" />
+    <state x="229" y="25" width="1024" height="832" key="SettingsEditor" timestamp="1627029597699">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
+    <state x="229" y="25" key="SettingsEditor/0.25.1440.830@0.25.1440.830" timestamp="1627029597699" />
     <state x="229" y="25" key="SettingsEditor/0.25.1440.831@0.25.1440.831" timestamp="1627029394776" />
     <state x="229" y="25" width="1024" height="832" key="SettingsEditor/0.25.1440.832@0.25.1440.832" timestamp="1627025110661" />
     <state x="229" y="25" key="SettingsEditor/0.25.1440.833@0.25.1440.833" timestamp="1626943518517" />
