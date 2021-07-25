@@ -228,7 +228,7 @@ public class CallLogPanel extends JPanel {
 				String[] res = ((String) formattedMinDate.getValue()).split("/");
 				//Date date = new Date(Integer.valueOf(res[0]), Integer.valueOf(res[1]), Integer.valueOf(res[2]));
 				
-				DateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+				@SuppressWarnings("SimpleDateFormat") DateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
 				Date date;
 				try {
 					date = (Date)formatter.parse(formattedMinDate.getText());
@@ -246,7 +246,8 @@ public class CallLogPanel extends JPanel {
 				String[] res = ((String) formattedMaxDate.getValue()).split("/");
 				//Date date = new Date(Integer.valueOf(res[0]), Integer.valueOf(res[1]), Integer.valueOf(res[2]));
 				
-				DateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+				@SuppressWarnings("SimpleDateFormat") DateFormat formatter;
+				formatter = new SimpleDateFormat("dd/MM/yyyy");
 				Date date;
 				try {
 					date = (Date)formatter.parse(formattedMaxDate.getText());

@@ -344,7 +344,7 @@ public class SoundPanel extends JPanel {
 			lblSave.validate();
 			
 			String format = "dd_MM_yy_H_mm_ss"; 
-			java.text.SimpleDateFormat formater = new java.text.SimpleDateFormat( format ); 
+			@SuppressWarnings("SimpleDateFormat") java.text.SimpleDateFormat formater = new java.text.SimpleDateFormat( format ); 
 			java.util.Date date = new java.util.Date();
 			nomRecord = "recordedSong_"+formater.format(date) ;
 			try
@@ -359,7 +359,7 @@ public class SoundPanel extends JPanel {
 				e.printStackTrace();
 			} catch (IOException e)
 			{
-				// TODO Auto-generated catch block
+				/* TODO Auto-generated catch block */
 				e.printStackTrace();
 			}
 		}

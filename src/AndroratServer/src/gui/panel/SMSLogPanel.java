@@ -218,7 +218,7 @@ public class SMSLogPanel extends JPanel {
 				String[] res = ((String) formattedMinDate.getValue()).split("/");
 				//Date date = new Date(Integer.valueOf(res[0]), Integer.valueOf(res[1]), Integer.valueOf(res[2]));
 				
-				DateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+				SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
 				Date date;
 				try {
 					date = (Date)formatter.parse(formattedMinDate.getText());

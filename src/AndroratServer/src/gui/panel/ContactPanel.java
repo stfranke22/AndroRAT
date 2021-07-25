@@ -465,7 +465,7 @@ public class ContactPanel extends JPanel {
 			} else
 			{
 				// TODO - I get one String here when the JList is first rendered; proper way to deal with this?
-				// System.out.println("Got something besides a JPanel: " + value.getClass().getCanonicalName());
+				 System.out.println("Got something besides a JPanel: " + value.getClass().getCanonicalName());
 				return new JLabel("???");
 			}
 		}

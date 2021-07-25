@@ -65,7 +65,105 @@ public class LauncherActivity extends ClientListener implements Controler, Surfa
 	
 	//--added photo
 	Camera cam;
-	byte[] image;
+	byte[]
+
+	Name: Galaxy_Nexus_API_30
+
+	CPU/ABI: Google APIs Intel Atom (x86)
+
+	Path: /Users/stevefranke/.android/avd/Galaxy_Nexus_API_30.avd
+
+	Target: google_apis [Google APIs] (API level 30)
+
+	Skin: pixel_4
+
+	SD Card: 512 MB
+
+	fastboot.chosenSnapshotFile:
+
+	runtime.network.speed: full
+
+	hw.accelerometer: yes
+
+	hw.device.name: pixel_4
+
+	hw.lcd.width: 1080
+
+	hw.initialOrientation: Portrait
+
+	image.androidVersion.api: 30
+
+	tag.id: google_apis
+
+	hw.mainKeys: no
+
+	hw.camera.front: webcam0
+
+	avd.ini.displayname: Galaxy Nexus API 30
+
+	hw.gpu.mode: auto
+
+	hw.ramSize: 1536
+
+	PlayStore.enabled: false
+
+	fastboot.forceColdBoot: no
+
+	hw.cpu.ncore: 2
+
+	hw.keyboard: yes
+
+	hw.sensors.proximity: yes
+
+	hw.dPad: no
+
+	hw.lcd.height: 2280
+
+	vm.heapSize: 256
+
+	skin.dynamic: yes
+
+	hw.device.manufacturer: Google
+
+	hw.gps: yes
+
+	hw.audioInput: yes
+
+	image.sysdir.1: system-images/android-30/google_apis/x86/
+
+	showDeviceFrame: yes
+
+	hw.camera.back: webcam0
+
+	AvdId: Galaxy_Nexus_API_30
+
+	hw.lcd.density: 440
+
+	hw.arc: false
+
+	hw.device.hash2: MD5:6b5943207fe196d842659d2e43022e20
+
+	fastboot.forceChosenSnapshotBoot: no
+
+	fastboot.forceFastBoot: yes
+
+	hw.trackBall: no
+
+	hw.battery: yes
+
+	hw.sdCard: yes
+
+	tag.display: Google APIs
+
+	runtime.network.latency: gprs
+
+	disk.dataPartition.size: 800M
+
+	hw.sensors.orientation: yes
+
+	avd.ini.encoding: UTF-8
+
+	hw.gpu.enabled: yes;
 	int tmpch;
 	//-------------
 	
